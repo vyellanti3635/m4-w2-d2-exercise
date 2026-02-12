@@ -1,0 +1,1 @@
+run `npx http-server` for cookeies demo to work
